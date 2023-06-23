@@ -16,6 +16,7 @@ int main()
 	printf( "\n   Introduzca base (entero): " );
 	scanf( "%d", &base );
 	printf( "\n   " );
+	printf("Esto es una prueba/n");
 	num=numero;
 	
 	while (cociente >0){
